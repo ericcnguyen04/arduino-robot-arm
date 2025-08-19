@@ -14,8 +14,6 @@ For example, I’m unsure if countersunk screws are essential, or if roundhead s
 - Consider buying screw sets (e.g., M3/M4 kits) to account for variations in size during prototyping.  
 
 ## Next Steps
-
-## Next Steps
 1. Assemble the 3D-printed components into the full arm structure.
 2. Install servo motors, screws, and mechanical fasteners.
 3. Build the gesture-sensing glove and integrate flex sensors and an accelerometer.
