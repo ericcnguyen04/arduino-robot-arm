@@ -20,6 +20,32 @@ For example, I’m unsure if countersunk screws are essential, or if roundhead s
 4. Test and verify Bluetooth communication between the glove and robotic arm.
 5. Program the Arduino to enable real-time gesture-based control.
 
+## 📅 Sept 12 Research Stand-up
+
+**Goal**  
+- Get the flex sensor to control a servo motor.  
+- ✅ Achieved basic control; modification and refinement strongly suggested for better responsiveness.
+
+**Progress / Done Well**  
+- Established working wiring between flex sensor (voltage divider) and Arduino.  
+- Servo responds to flex sensor input.  
+- Verified calibration ranges (~940, 960, 980) as reference points.  
+
+**Roadblocks**  
+- Calibration of flex sensor remains inconsistent.  
+- Servo behavior limited due to using continuous-rotation type (positional servo would be more suitable for robot arm).  
+- Fine-tuning thresholds and smoothing still needed.  
+
+**Next Steps**  
+- Add calibration routine for flex sensor (auto-detect min/max).  
+- Explore swapping to positional servos for precise robot arm movement.  
+- Begin integration planning for glove interface.  
+- Queue 3D prints of glove prototype at GGC Digital Lab.  
+
+**Circuit Reference**  
+![Flex Sensor Circuit Diagram](circuit0912.jpeg)
+
+
 ## Reference Resource
 This project is based on the following reference tutorial:  
 **DIY Arduino Robot Arm Controlled by Hand Gestures – SmartBuilds.io**  
