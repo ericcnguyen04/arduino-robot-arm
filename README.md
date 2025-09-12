@@ -20,11 +20,11 @@ For example, I’m unsure if countersunk screws are essential, or if roundhead s
 4. Test and verify Bluetooth communication between the glove and robotic arm.
 5. Program the Arduino to enable real-time gesture-based control.
 
-## 📅 Sept 12 Research Stand-up
+## Sept 12 Research Stand-up
 
 **Goal**  
 - Get the flex sensor to control a servo motor.  
-- ✅ Achieved basic control; modification and refinement strongly suggested for better responsiveness.
+- ✅ Achieved basic control, modification and refinement strongly suggested for better responsiveness.
 
 **Progress / Done Well**  
 - Established working wiring between flex sensor (voltage divider) and Arduino.  
@@ -39,7 +39,8 @@ For example, I’m unsure if countersunk screws are essential, or if roundhead s
 **Next Steps**  
 - Add calibration routine for flex sensor (auto-detect min/max).  
 - Explore swapping to positional servos for precise robot arm movement.  
-- Begin integration planning for glove interface.  
+- Begin integration planning for glove interface.
+- Assemble parts once screws have been delivered 
 - Queue 3D prints of glove prototype at GGC Digital Lab.  
 
 **Circuit Reference**  
