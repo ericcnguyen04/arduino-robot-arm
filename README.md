@@ -43,7 +43,7 @@ For example, I’m unsure if countersunk screws are essential, or if roundhead s
 - Queue 3D prints of glove prototype at GGC Digital Lab.  
 
 **Circuit Reference**  
-![Flex Sensor Circuit Diagram](circuit0912.jpeg)
+![Flex Sensor Circuit Diagram](circuit0912.png)
 
 
 ## Reference Resource
